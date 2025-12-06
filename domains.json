@@ -1,0 +1,8 @@
+{
+    "whitelist": [
+        "jd.com"
+    ],
+    "blacklist": [
+        "example.com"
+    ]
+}
